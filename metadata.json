@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Queen Marvellous College Portal",
+  "description": "A comprehensive institutional web platform for Queen Marvellous College featuring an admission portal, registration system, staff corner, and AI-powered educational quotes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
